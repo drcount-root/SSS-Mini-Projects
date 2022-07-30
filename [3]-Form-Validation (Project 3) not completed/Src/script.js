@@ -47,3 +47,15 @@ function checkpassword(password) {
       "password must be 8 letters long";
   }
 }
+
+function checkpasswordmatch(password, cpassword) {
+  if (password === cpassword && password != "") {
+    document.getElementById("cpassword").classList.add("success");
+    document.getElementById("cpassword").classList.replace("error", "success");
+    document.getElementById("cpassword_error").innerHTML = "";
+  } else {
+    document.getElementById("cpassword").classList.add("error");
+    document.getElementById("cpassword_error").innerText =
+      "passwords not matched";
+  }
+}
