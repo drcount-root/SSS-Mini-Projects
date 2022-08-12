@@ -1,5 +1,1 @@
-# Solar Secure Solutions
-
-[Minnies] : Mini Projects
-<br/>
-[Biggies] : Big Projects
+# Solar Secure Solutions Projects
