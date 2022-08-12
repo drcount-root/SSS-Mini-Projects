@@ -1,2 +1,4 @@
-# SSS-Mini-Projects
-Solar Secure Solutions - Mini Projects
+# Solar Secure Solutions
+
+[Minnies] : Mini Projects
+[Biggies] : Big Projects
